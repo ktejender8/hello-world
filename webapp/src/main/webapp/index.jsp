@@ -1,4 +1,4 @@
-<h1> Hello, HPE </h1>
-<h2> Sunday monday tuesday wednesday Thursday Friday saturday </h2>
+<h1> Hello All </h1>
+<h2> Welcome to CICD Demo using jenkins</h2>
 <h3>  </h3>
 
