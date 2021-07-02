@@ -1,4 +1,6 @@
 <h1> Hello All </h1>
-<h2> Task: Create a CICD Pipeline for a Java-based application</h2>
-<h3> Mission Accomplished  </h3>
+<h2> Task1 : Create a CICD Pipeline for a Java-based application</h2>
+<h3> Completed </h3> 
+<h2> Task 2: Create two jobs one for CI and another for CD, make sure your job should run on Jenkins slave </h2>
+<h3> Completed </h3>
 
